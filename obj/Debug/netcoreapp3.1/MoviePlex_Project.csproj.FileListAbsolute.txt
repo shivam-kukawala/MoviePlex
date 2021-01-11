@@ -1,0 +1,26 @@
+E:\Visual Studio\MoviePlex_Project\bin\Debug\netcoreapp3.1\MoviePlex_Project.exe
+E:\Visual Studio\MoviePlex_Project\bin\Debug\netcoreapp3.1\MoviePlex_Project.deps.json
+E:\Visual Studio\MoviePlex_Project\bin\Debug\netcoreapp3.1\MoviePlex_Project.runtimeconfig.json
+E:\Visual Studio\MoviePlex_Project\bin\Debug\netcoreapp3.1\MoviePlex_Project.runtimeconfig.dev.json
+E:\Visual Studio\MoviePlex_Project\bin\Debug\netcoreapp3.1\MoviePlex_Project.dll
+E:\Visual Studio\MoviePlex_Project\bin\Debug\netcoreapp3.1\MoviePlex_Project.pdb
+E:\Visual Studio\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.csprojAssemblyReference.cache
+E:\Visual Studio\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.AssemblyInfoInputs.cache
+E:\Visual Studio\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.AssemblyInfo.cs
+E:\Visual Studio\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.csproj.CoreCompileInputs.cache
+E:\Visual Studio\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.dll
+E:\Visual Studio\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.pdb
+E:\Visual Studio\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.genruntimeconfig.cache
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\bin\Debug\netcoreapp3.1\MoviePlex_Project.exe
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\bin\Debug\netcoreapp3.1\MoviePlex_Project.deps.json
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\bin\Debug\netcoreapp3.1\MoviePlex_Project.runtimeconfig.json
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\bin\Debug\netcoreapp3.1\MoviePlex_Project.runtimeconfig.dev.json
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\bin\Debug\netcoreapp3.1\MoviePlex_Project.dll
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\bin\Debug\netcoreapp3.1\MoviePlex_Project.pdb
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.csprojAssemblyReference.cache
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.AssemblyInfoInputs.cache
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.AssemblyInfo.cs
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.csproj.CoreCompileInputs.cache
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.dll
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.pdb
+C:\Users\shiva\Downloads\MoviePlex_Project\MoviePlex_Project\obj\Debug\netcoreapp3.1\MoviePlex_Project.genruntimeconfig.cache

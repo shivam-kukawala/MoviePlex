@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\shiva\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\shiva\\.nuget\\packages"
+    ]
+  }
+}
